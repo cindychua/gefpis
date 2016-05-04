@@ -10,7 +10,7 @@ I used mysql for easier queries. :D
 I also used the sql queries in the drive.
 
 to do:
-- [] show
-- [] create/update
-- [] delete
-- [] devise
+- [ ] show
+- [ ] create/update
+- [ ] delete
+- [ ] devise
